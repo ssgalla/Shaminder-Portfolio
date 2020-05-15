@@ -36,3 +36,7 @@ Example python, data science and machine learning portfolio
   * Gain insight in how to decipher the data encoded in URLs.
   * Download the pages HTML content using the requests module.
   * Parse the downloaded HTML content with BS4 to extract required information.
+
+# [Project 7 - Tweepy Python Twitter Bot API Calls Tutorial Document](https://github.com/ssgalla/python-code-practice/blob/master/basic_twitter_tweepy_tutorial.py)
+* A basic tutorial with working basic code on how to make various API calls to the twitter website using Tweepy.
+* This document will give you the basics on how to make a Twitter Bot using Python, Tweepy Module and JSON Module.
