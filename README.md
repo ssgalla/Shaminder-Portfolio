@@ -1,2 +1,30 @@
 # Shaminder-Portfolio
 Example python, data science and machine learning portfolio
+
+# [Project 1 - Standard, Trigonometry and Scientific Calculator](https://github.com/ssgalla/python-code-practice/blob/master/basic-calculator.py)
+* Create a calculator which provides basic functionality such as addition, subtraction, multiplication and division.
+* Add functionality for further equations these being related to trigonometry. Included functions are sine, cosine, tangent, cosecant, secant and cotangent.
+* Add further functionality for scientific equations such as powers (currently in progress).
+* Build a client facing API so users do not need to use command line (currently in progress).
+* Provide interface so user can login or restore session to be able to view previously inserted sums.
+
+# [Project 2 - Guess the number](https://github.com/ssgalla/python-code-practice/blob/master/basic-guessthenumber.py)
+* A simple game made using python and the random module, the module randomly selects a number between 1 and 20.
+* Gives the users 6 chances to be able to guess the correct numbe, if it is not correct it will end the game and give the user the option to retry.
+* Build a simple interface so user does not have to use the command line to play (currently in progress).
+
+# [Project 3 - Hangman](https://github.com/ssgalla/python-code-practice/blob/master/basic_hangman.py)
+* A simple template code made using the word ignore. 
+* Gives a working template to be able to add more words to the game for scalibility. 
+
+# [Project 4 - Rock, Paper, Scissors](https://github.com/ssgalla/python-code-practice/blob/master/basic_rockpaperscissors.py)
+* A simple game of rock, paper, scissors.
+* The computer randomly generates which one it is using the random module and a pre-compiled list. 
+* Build a simple interface so user does not have to use the command line to play (currently in progress).
+
+# [Project 5 - Roll the dice](https://github.com/ssgalla/python-code-practice/blob/master/basic_rollthedice.py)
+* This small application allows you to roll upto 1 - 6 dices, it is randomly generated usin the random module. 
+* The user can use this in co-ordination with a number of other board games should they have the requirement to do so. 
+* Build a simple interface so user does not have to use the command line to play (currently in progress). 
+
+
