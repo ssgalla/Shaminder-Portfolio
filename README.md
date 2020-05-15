@@ -31,3 +31,8 @@ Example python, data science and machine learning portfolio
 * This project consists of scraping the website Monster Jobs for software developer jobs in India.
 * In this project we use the modules Requests to make a HTML request and Beautiful Soup 4 to parse and look through the HTML data.
 * Build a simple interface so user does not have to use the command line to look through data (currently in progress).
+* In this project we took the four following steps :-
+  * Inspect the HTML structure of our target site using the browsers in-built developer tools.
+  * Gain insight in how to decipher the data encoded in URLs.
+  * Download the pages HTML content using the requests module.
+  * Parse the downloaded HTML content with BS4 to extract required information.
