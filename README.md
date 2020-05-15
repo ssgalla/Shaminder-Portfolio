@@ -27,4 +27,7 @@ Example python, data science and machine learning portfolio
 * The user can use this in co-ordination with a number of other board games should they have the requirement to do so. 
 * Build a simple interface so user does not have to use the command line to play (currently in progress). 
 
-
+# [Project 6 - BS4 Web Scraping Monster Jobs](https://github.com/ssgalla/python-code-practice/blob/master/basic-webscraper-monsterjobs.py)
+* This project consists of scraping the website Monster Jobs for software developer jobs in India.
+* In this project we use the modules Requests to make a HTML request and Beautiful Soup 4 to parse and look through the HTML data.
+* Build a simple interface so user does not have to use the command line to look through data (currently in progress).
