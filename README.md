@@ -46,3 +46,5 @@
 * This project makes use of multiple modules these being os, logging, time, json and tweepy
 
 # [Project 9 - Pandas and NumPy code snippet booklet](https://github.com/ssgalla/python-code-practice/tree/master/pandas_dataframe)
+* A booklet with the most common functions from Pandas and NumPy
+* Data Science and General Python Functions
