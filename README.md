@@ -1,6 +1,3 @@
-# Shaminder-Portfolio
-Example python, data science and machine learning portfolio
-
 # [Project 1 - Standard, Trigonometry and Scientific Calculator](https://github.com/ssgalla/python-code-practice/blob/master/basic-calculator.py)
 * Create a calculator which provides basic functionality such as addition, subtraction, multiplication and division.
 * Add functionality for further equations these being related to trigonometry. Included functions are sine, cosine, tangent, cosecant, secant and cotangent.
