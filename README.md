@@ -47,3 +47,5 @@ Example python, data science and machine learning portfolio
   * Favorite retweeting
   * Autoreply 
 * This project makes use of multiple modules these being os, logging, time, json and tweepy
+
+# [Project 9 - Pandas and NumPy code snippet booklet](https://github.com/ssgalla/python-code-practice/tree/master/pandas_dataframe)
