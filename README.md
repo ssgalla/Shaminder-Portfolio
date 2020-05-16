@@ -40,3 +40,10 @@ Example python, data science and machine learning portfolio
 # [Project 7 - Tweepy Python Twitter Bot API Calls Tutorial Document](https://github.com/ssgalla/python-code-practice/blob/master/basic_twitter_tweepy_tutorial.py)
 * A basic tutorial with working basic code on how to make various API calls to the twitter website using Tweepy.
 * This document will give you the basics on how to make a Twitter Bot using Python, Tweepy Module and JSON Module.
+
+# [Project 8 - Tweepy Twitter API Bots](https://github.com/ssgalla/python-code-practice/tree/master/tweepy_twitter_bot)
+* In this project I created three bots:-
+  * Follow followers back
+  * Favorite retweeting
+  * Autoreply 
+* This project makes use of multiple modules these being os, logging, time, json and tweepy
