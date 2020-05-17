@@ -48,3 +48,7 @@
 # [Project 9 - Pandas and NumPy code snippet booklet](https://github.com/ssgalla/python-code-practice/tree/master/pandas_dataframe)
 * A booklet with the most common functions from Pandas and NumPy
 * Data Science and General Python Functions
+
+# [Project 10 - Analyzing obesity in England (currently in progress)]()
+* This project analyses the obesity in England for the year 2004 using official data from gov.co.uk
+* For this project we use the pandas and matplotlib.pyplot modules
