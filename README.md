@@ -49,6 +49,13 @@
 * A booklet with the most common functions from Pandas and NumPy
 * Data Science and General Python Functions
 
-# [Project 10 - Analyzing obesity in England (currently in progress)]()
+# [Project 10 - Analyzing obesity in England - So who is getting fatter? and What about the future?](ce/tree/master/analyzing_obesity_uk)
 * This project analyses the obesity in England for the year 2004 using official data from gov.co.uk
-* For this project we use the pandas and matplotlib.pyplot modules
+* For this project we use the pandas, numpy and matplotlib.pyplot modules
+* This project made use of the following functions
+  * Parsing data
+  * Dropping NaN
+  * Changing indexes
+  * Interpolation
+    * Curve Fitting
+    * Polynomial Interpolation
