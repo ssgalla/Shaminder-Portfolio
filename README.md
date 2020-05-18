@@ -59,6 +59,9 @@
   * Interpolation
     * Curve Fitting
     * Polynomial Interpolation
+* Outcome from analysis :-
+  * The data shows via graphs that between the years of 2002/03 til 2012/13 there is a distinct output there is a higher rate of obesity in individuals aged 35-44 than that of under 16 individuals in England
+  * After completing Interpolation to gain an estimate of what the future looks like it is clear to see that this will not be the case in the future and the under 16 age group will have much higher rates of obesity than that of the 35-44 age group right now
 
 # [Project 11 - Analyzing air pollution in Seoul, Japan - What were the average levels each year between 2017 - 2019? and have the pollutants reduced in the air between 2017 - 2019? (currently in progress)]()
 * This project provides an accurate analysis into the air pollution levels for six pollutants these being
