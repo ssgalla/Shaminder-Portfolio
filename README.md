@@ -60,7 +60,7 @@
     * Curve Fitting
     * Polynomial Interpolation
 
-# [Project 11 - Analyzing air pollution in Seoul, Japan - What were the average levels each year between 2017 - 2019? and Have the pollutants reduced in the air between 2017 - 2019? (currently in progress)]()
+# [Project 11 - Analyzing air pollution in Seoul, Japan - What were the average levels each year between 2017 - 2019? and have the pollutants reduced in the air between 2017 - 2019? (currently in progress)]()
 * This project provides an accurate analysis into the air pollution levels for six pollutants these being
   * SO2
   * NO2
