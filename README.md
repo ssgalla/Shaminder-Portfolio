@@ -69,8 +69,16 @@
   * Pandas
   * Numpy
   * Matplotlib.pyplot
+  
+# [Project 12 - Analysis of terrorist plots executed and prevented within the United States of America since the happening on 9/11 until 2016 (currently in progress)]()
+* Questions in analysis:-
+  * How many terrorist attacks were executed in comparison to how many were prevented?
+  * Since 2011 how many victimes have been wounded and/or killed?
+  * From the data which plot ideology has been more prominent in carrying out attacks?
+  * Looking at the data how many of the suspects were US born citizens compared to non US born citizens?
+  * From which area within the USA were most suspects last residency from? 
 
-# [Project 12 - Analyzing air pollution in Seoul, Korea - What were the average levels each year between 2017 - 2019? and have the pollutants reduced in the air between 2017 - 2019? (currently in progress)]()
+# [Project 13 - Analyzing air pollution in Seoul, Korea - What were the average levels each year between 2017 - 2019? and have the pollutants reduced in the air between 2017 - 2019? (currently in progress)]()
 * This project provides an accurate analysis into the air pollution levels for six pollutants these being
   * SO2
   * NO2
